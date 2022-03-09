@@ -11,19 +11,6 @@ Clone the project repository; this will download the project files to your local
 `git clone https://github.com/mr-canoehead/vpn_client_gateway.git`
 
 <h2>Install the DNS forwarder</h2>
-<details><summary><i>Click for Pi-hole instructions (ignore for normal installations)</i></summary>
-<p>
-<hr>
-If you are setting up a combined Pi-hole + VPN Client Gateway system, please refer to the following page before continuing with the installation guide:
-
-[Pi-hole ad blocker](https://github.com/mr-canoehead/vpn_client_gateway/wiki/Pi-hole-ad-blocker)
-
-After running the Pi-hole installation script the DNS service <b>pihole-FTL</b> is already installed, so skip ahead to:
-
-[Install openvpn](https://github.com/mr-canoehead/vpn_client_gateway/wiki/Installation-Guide---Part-2:-Install-and-configure-supporting-services#install-openvpn)
-<hr>
-</p>
-</details>
 
 <br>
 The DNS forwarder will accept DNS requests from clients and forward them to real name servers (e.g. Google's 8.8.8.8). This will prevent DNS leaks when clients are using the Pi as a router/gateway. We'll use <b>dnsmasq</b> as our DNS forwarder for this project:
