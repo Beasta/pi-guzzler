@@ -160,8 +160,5 @@ The Pi-hole admin page can be accessed via the server's url, e.g.:
 <hr>
 </details>
 <br>
-<i>*Note: the list of vpn servers can be customized, please refer to [Additional Information: Modifying the list of VPN servers](https://github.com/mr-canoehead/vpn_client_gateway/wiki/Modifying-the-list-of-VPN-servers)</i>
 
 <hr>
-
-[Proceed to Part 4: Test the VPN Client Gateway](https://github.com/mr-canoehead/vpn_client_gateway/wiki/Installation-Guide---Part-4:-Test-the-VPN-Client-Gateway)
