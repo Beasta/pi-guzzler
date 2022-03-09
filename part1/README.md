@@ -90,4 +90,4 @@ After the Pi has rebooted, verify that the static IP address is being used.
 
 <hr>
 
-[Proceed to Part 2: Install and configure supporting services](https://github.com/mr-canoehead/vpn_client_gateway/wiki/Installation-Guide---Part-2:-Install-and-configure-supporting-services)
+[Proceed to Part 2](../part2/README.md)

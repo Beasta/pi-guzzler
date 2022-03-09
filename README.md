@@ -19,7 +19,7 @@ It could be modified to work with other providers supporting openvpn service, bu
 + Raspberry Pi OS Lite operating system image
 + USB keyboard
 
-1. The Installation Guide can be found in the project wiki.
-[installation Guide Part 1:](part1/README.md)
+## The Installation Guide
+1. [installation Guide Part 1:](part1/README.md)
 2. [installation Guide Part 2:](part2/README.md)
 3. [installation Guide Part 3:](part3/README.md)
